@@ -9,6 +9,10 @@ def model2():
 def model3():
     print("adding model three")
     
+def model4():
+    print("adding model four")
+    
     
     
 print("model3 is best")
+
