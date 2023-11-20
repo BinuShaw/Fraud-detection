@@ -7,7 +7,7 @@ def model2():
     print("adding model 2")
     
 def model3():
-    print("adding model three")
+    print("adding model 3")
     
 def model4():
     print("adding model four")
